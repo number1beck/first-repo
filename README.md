@@ -1,3 +1,3 @@
 # first-repo
 
-#Everything is great.
+#Having fun learning IOS Swift
